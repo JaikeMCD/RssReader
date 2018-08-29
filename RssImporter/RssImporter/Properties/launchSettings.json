@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RssImporter": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Developer\\source\\repos\\RssImporter\\RssImporter"
+    }
+  }
+}
