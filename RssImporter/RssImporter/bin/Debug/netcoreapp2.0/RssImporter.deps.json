@@ -24,7 +24,10 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.SyndicationFeed.ReaderWriter.dll": {}
+          "lib/netstandard1.3/Microsoft.SyndicationFeed.ReaderWriter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "System.Collections/4.3.0": {
@@ -128,7 +131,10 @@
       },
       "System.ServiceModel.Syndication/4.5.0": {
         "runtime": {
-          "lib/netstandard2.0/System.ServiceModel.Syndication.dll": {}
+          "lib/netstandard2.0/System.ServiceModel.Syndication.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
         }
       },
       "System.Text.Encoding/4.3.0": {
